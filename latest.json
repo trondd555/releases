@@ -5,7 +5,7 @@
   "minimum_stack_version": "11.0.12",
   "chromium": "92.0.4515.115",
   "revisions": {
-    "android-prepare-vendor": "59d2a75bffc23cccbf50c6ba08512a4c750f8f43",
+    "android-prepare-vendor": "9fb641429aea44778132bb28d6a48943206da2cc",
     "platform_packages_apps_Updater": "9ae81050aa8401da67dbeac7ecfd9ff1c677fad7",
     "platform_prebuilts_chromium": "84633b66b3810075e87be66eef8b2aaf4907375c",
     "platform_prebuilts_fdroid": "353a331017983d113e9064bda5cdf5b6399f424b",
